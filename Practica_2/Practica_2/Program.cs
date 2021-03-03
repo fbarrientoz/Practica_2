@@ -1,8 +1,5 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+
 
 namespace Practica_2
 {
@@ -12,20 +9,25 @@ namespace Practica_2
         {
 
             //Mostrar hello world en la consola
-            //System.Console.WriteLine("Hello World");
+            System.Console.WriteLine("Hello World");
             //Variables
             var numero = 4;
             var saludo = "hola";      
-            System.Console.WriteLine(numero);
-            System.Console.WriteLine(saludo);
-            System.Console.WriteLine(numero + 2);
-            System.Int32 wholeNumber;
-            System.Double pi = 3.1416;
-            System.Boolean status = true;
-            System.String cadena = "hello";
-            System.Char letter = 'z';
+
+
+            Console.WriteLine(saludo);
+            Console.WriteLine(numero + 2);
+            Int32 wholeNumber;
+            Double pi = 3.1416;
+            Boolean status = true;
+            String cadena = "hello";
+            Char letter = 'z';
             Console.ReadKey();
 
+
+
+
         }
+        
     }
 }
