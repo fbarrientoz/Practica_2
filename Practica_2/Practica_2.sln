@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_Int", "Ejercicio_
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculoPerimetro", "CalculoPerimetro\CalculoPerimetro.csproj", "{104D9E93-0EAB-4E0C-8C5B-8AE0B16032B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ejercicio_String", "Ejercicio_String\Ejercicio_String.csproj", "{5E2DB9CE-93C6-413C-93B0-968A4C4445C6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{104D9E93-0EAB-4E0C-8C5B-8AE0B16032B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{104D9E93-0EAB-4E0C-8C5B-8AE0B16032B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{104D9E93-0EAB-4E0C-8C5B-8AE0B16032B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2DB9CE-93C6-413C-93B0-968A4C4445C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2DB9CE-93C6-413C-93B0-968A4C4445C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2DB9CE-93C6-413C-93B0-968A4C4445C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2DB9CE-93C6-413C-93B0-968A4C4445C6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
