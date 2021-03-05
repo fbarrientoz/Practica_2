@@ -17,7 +17,11 @@ namespace Ejercicio_StringInt
             Nombre = Console.ReadLine();
             Console.WriteLine("Escribe la edad: ");
             LineaEdad = Console.ReadLine();
+            //Convert Parse
             edad = int.Parse(LineaEdad);
+            //Convert to int
+            //edad = Convert.ToInt32(LineaEdad);
+
             Console.WriteLine("Tu nombre es: " + Nombre + " y tienes " + edad + "años");
             Console.WriteLine("Presiona cualquier tecla para continuar");
             Console.ReadKey();
